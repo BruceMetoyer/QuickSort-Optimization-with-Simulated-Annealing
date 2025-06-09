@@ -58,17 +58,19 @@ Traditional QuickSort performance heavily depends on the quality of pivot select
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 SA-QuickSort/
-│
-├── sa_quicksort.py # Core SA-optimized QuickSort implementation
-├── traditional_quicksort.py# Baseline pivot strategies (first, last, median, random)
-├── cost_function.py # Custom cost metric for evaluating pivots
-├── experiment_runner.ipynb # Full experimental setup and analysis
-├── plots/ # Visual results and comparison graphs
-├── README.md
+
+- sa_quicksort.py # Core SA-optimized QuickSort implementation
+- traditional_quicksort.py# Baseline pivot strategies (first, last, median, random)
+- cost_function.py # Custom cost metric for evaluating pivots
+- experiment_runner.ipynb # Full experimental setup and analysis
+- plots/ # Visual results and comparison graphs
+- README.md
+
+--- 
 
 ## Acknowledgemmnets
 
-Special thanks to Bowie State University's Computer Science Depeartment for providing me with the resources to accomplish this project.
+I want to give special thanks to Bowie State University's Computer Science Department for providing me with the resources to accomplish this project.
