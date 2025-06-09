@@ -60,7 +60,7 @@ Traditional QuickSort performance heavily depends on the quality of pivot select
 
 ## Project Structure
 
-SA-QuickSort/
+**SA-QuickSort**
 
 - sa_quicksort.py # Core SA-optimized QuickSort implementation
 - traditional_quicksort.py# Baseline pivot strategies (first, last, median, random)
